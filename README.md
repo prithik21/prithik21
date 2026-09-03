@@ -2,7 +2,7 @@
 Bangalore, India | prithikarumugam@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/prithik-arumugam/)
 
 ## Executive Summary
-Product Manager & Data Specialist with 3.8 years of experience building B2B SaaS analytics infrastructure, scaling startup product workflows, and driving enterprise account retention. Deep focus on combining machine learning predictive models with operational business intelligence systems.
+Product Manager & Data Specialist with 4 years of experience building B2B SaaS analytics infrastructure, scaling startup product workflows, and driving enterprise account retention. Deep focus on combining machine learning predictive models with operational business intelligence systems.
 
 ## Core Technical Competencies
 - **Data Science & ML:** Python (Pandas, Scikit-Learn, NumPy), SQL, Predictive Modeling, Time-Series Analysis
